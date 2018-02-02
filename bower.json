@@ -1,0 +1,35 @@
+{
+  "name": "WIS Floating Clock",
+  "homepage": "http://www.raiper34.net",
+  "authors": [
+    "Filip Raiper34 Gulan"
+  ],
+  "description": "This extension allows Clock to float and be modifiable.",
+  "main": "",
+  "keywords": [
+    "WIS",
+    "BUT",
+    "FIT",
+    "Brno",
+    "University",
+    "of",
+    "Technology",
+    "Addon",
+    "Chrome",
+    "Faculty",
+    "of",
+    "Information",
+    "Technology"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
